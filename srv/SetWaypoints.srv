@@ -1,0 +1,7 @@
+# Request
+# (empty or possibly only minor configuration stuff later)
+---
+# Response
+bool success
+string message
+custom_msgs_pkg/PathPoint[] path
